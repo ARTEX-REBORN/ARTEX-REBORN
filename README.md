@@ -1,7 +1,8 @@
-# ⛧ ARTEX-REBORN
 
 <div align="center">
-
+  
+# ⛧ ARTEX-REBORN ⛧
+  
 ### ◈ ARTIFICIAL INTELLIGENCE × CYBERSECURITY ◈
 
 **Intelligence. Automation. Security. Evolution.**
